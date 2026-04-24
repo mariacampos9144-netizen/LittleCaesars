@@ -62,7 +62,7 @@ export default function Footer() {
           <div className="space-y-6 bg-white/5 p-6 rounded-2xl border border-white/10">
             <h3 className="font-bold text-xl uppercase tracking-wider text-primary">Proyecto Académico</h3>
             <div className="space-y-2 text-sm text-gray-300">
-              <p><strong className="text-white">Estudiante:</strong> [TU NOMBRE]</p>
+              <p><strong className="text-white">Estudiante:</strong> Maria Guadalupe Campos Ramirez</p>
               <p><strong className="text-white">Universidad:</strong> CUCEI — Universidad de Guadalajara</p>
             </div>
             <div className="border-2 border-dashed border-gray-600 rounded-lg p-6 flex items-center justify-center mt-4 bg-black/20 h-24">
