@@ -65,8 +65,12 @@ export default function Footer() {
               <p><strong className="text-white">Estudiante:</strong> Maria Guadalupe Campos Ramirez</p>
               <p><strong className="text-white">Universidad:</strong> CUCEI — Universidad de Guadalajara</p>
             </div>
-            <div className="border-2 border-dashed border-gray-600 rounded-lg p-6 flex items-center justify-center mt-4 bg-black/20 h-24">
-              <span className="text-gray-500 font-medium text-sm">Logo CUCEI</span>
+            <div className="rounded-lg p-4 flex items-center justify-center mt-4 bg-white h-32">
+              <img
+                src="https://res.cloudinary.com/drfqisoar/image/upload/v1777002834/Escudo_CUCEI.svg_v0oxe8.png"
+                alt="Escudo CUCEI"
+                className="max-h-full max-w-full object-contain"
+              />
             </div>
           </div>
 
