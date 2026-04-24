@@ -24,7 +24,7 @@ const menuItems = [
     name: "Crazy Bread",
     description: "8 deliciosos panes con mantequilla, ajo y queso parmesano",
     price: 49,
-    image: "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=2000&auto=format&fit=crop"
+    image: "https://res.cloudinary.com/drfqisoar/image/upload/v1777002605/26dd12f9b73904d3030c4d30744e58ea_nmemak.jpg"
   },
   {
     id: 4,
