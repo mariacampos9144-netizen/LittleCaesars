@@ -25,3 +25,8 @@ pnpm workspace monorepo using TypeScript. Each package manages its own dependenc
 - `pnpm --filter @workspace/api-server run dev` — run API server locally
 
 See the `pnpm-workspace` skill for workspace structure, TypeScript setup, and package details.
+
+## Artifacts
+
+- `little-caesars-parian` — Single-page landing site (Spanish) for "Little Caesars Pizza Parián" in San Pedro Tlaquepaque, Jalisco. Academic project for CUCEI. Frontend-only React + Vite (no backend). Includes `vercel.json` configured for SPA deployment to Vercel (framework `vite`, output `dist/public`, rewrite all routes to `/index.html`).
+
