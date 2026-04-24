@@ -20,6 +20,7 @@ export default function Navbar() {
     { name: "Nosotros", href: "#nosotros" },
     { name: "Menú", href: "#menu" },
     { name: "Galería", href: "#galeria" },
+    { name: "Horarios", href: "#horarios" },
     { name: "Contacto", href: "#contacto" },
     { name: "Ubicación", href: "#ubicacion" },
   ];

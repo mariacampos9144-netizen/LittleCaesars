@@ -6,6 +6,7 @@ import Menu from "@/components/sections/Menu";
 import Gallery from "@/components/sections/Gallery";
 import ContactForm from "@/components/sections/ContactForm";
 import Location from "@/components/sections/Location";
+import Hours from "@/components/sections/Hours";
 import Footer from "@/components/sections/Footer";
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
         <About />
         <Menu />
         <Gallery />
+        <Hours />
         <ContactForm />
         <Location />
       </main>
